@@ -1,14 +1,18 @@
 # jsonserverdemo
 Mocking server based on json-server
-## 安装Node
+## Install Node
 ```
 brew install node
 ```
-## 安装json-server
+## Install json-server
 ```
 npm install -g json-server
 ```
-## 启动
+## Startup
 ```
 node server.js
 ```
+## Access via browser
+http://localhost:3000
+## Reference
+https://github.com/typicode/json-server
